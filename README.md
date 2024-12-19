@@ -1,6 +1,6 @@
 # Portfolio
 - [About Me](#about-me)
-- [Skills](#skills
+- [Skills](#skills)
 
 ## About Me
 
