@@ -13,6 +13,7 @@ Most of what i've learned comes from taking online and in-person courses from Mo
 
 __QA Automation__
   * Familiar with tools like WebdriverIO, JMeter, Postman.
+  * Knows how to make test cases and execute different types of testing.
 
 __Jira__
   * Knowlage of making bug tickets.
@@ -20,13 +21,13 @@ __Jira__
 ## Courses
 
 __Software Quality Assurance__
-In class course at Mountainland Technical College.
+*In class course at Mountainland Technical College.
 *Completed.
 
 __Introduction To Web Development__
-Online course at Mountainland Technical College
+*Online course at Mountainland Technical College
 *Completed.
 
 __Web Programming and Development__
-In class course at Mountainland Technical College
+*In class course at Mountainland Technical College
 *Currently taking.
