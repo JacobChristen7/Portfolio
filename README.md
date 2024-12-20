@@ -1,6 +1,7 @@
 # Portfolio
 - [About Me](#about-me)
 - [Skills](#skills)
+- [Courses](#courses)
 
 ## About Me
 
@@ -15,3 +16,17 @@ __QA Automation__
 
 __Jira__
   * Knowlage of making bug tickets.
+
+## Courses
+
+__Software Quality Assurance__
+In class course at Mountainland Technical College.
+*Completed.
+
+__Introduction To Web Development__
+Online course at Mountainland Technical College
+*Completed.
+
+__Web Programming and Development__
+In class course at Mountainland Technical College
+*Currently taking.
