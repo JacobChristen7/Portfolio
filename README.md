@@ -14,7 +14,7 @@ Most of what i've learned comes from taking online and in-person courses from Mo
 __QA Automation__
   * Familiar with tools like WebdriverIO, JMeter, Postman.
   * Knows how to make test cases and execute different types of testing.
-  * Understands the difference between Agile and Scrum.
+  * Understands how the Agile and Scrum methodologies work.
 
 __Jira__
   * Knowlage of making bug tickets.
